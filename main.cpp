@@ -4,23 +4,8 @@ using namespace std;
 
 int main()
 {
-    for(;;){cout<<" Helo World ";}
+    for(;;){cout<<" Helo Worldaaa ";}
     return 0;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
